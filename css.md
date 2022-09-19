@@ -9,7 +9,7 @@ el-button
   color: #2794f8;
   background: white;
 }
-<img src="https://img-blog.csdnimg.cn/20210312112607776.png#pic_center" alt="修改后的样式">
+<img src="https://img-blog.csdnimg.cn/20210312112607776.png>
 
 /*鼠标悬浮，没有按下；鼠标按下后抬起，没有移开*/
 .buttonDiv:focus, .buttonDiv:hover{
@@ -17,10 +17,10 @@ el-button
   border: 1px solid #2794f8 !important;
   color: #2794f8;
 }
-<img src="https://img-blog.csdnimg.cn/20210312113215492.png#pic_center" alt="在这里插入图片描述">
+<img src="https://img-blog.csdnimg.cn/20210312113215492.png#pic_center">
 /*鼠标按下，没有抬起*/
 .buttonDiv:active {
   background: #2794f8;
   color: white;
 }
-<img src="https://img-blog.csdnimg.cn/20210312113256361.png#pic_center" alt="在这里插入图片描述">
+<img src="https://img-blog.csdnimg.cn/20210312113256361.png#pic_center">
