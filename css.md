@@ -9,7 +9,7 @@ el-button
   color: #2794f8;
   background: white;
 }
-<img src="https://img-blog.csdnimg.cn/20210312112607776.png>
+<img src="https://img-blog.csdnimg.cn/20210312112607776.png#pic_center">
 
 /*鼠标悬浮，没有按下；鼠标按下后抬起，没有移开*/
 .buttonDiv:focus, .buttonDiv:hover{
